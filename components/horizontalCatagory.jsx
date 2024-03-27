@@ -73,7 +73,7 @@ function SliceCategory() {
     },
     {
       id: 10,
-      name: "Clothes",
+      name: "Shoes",
       link: "/tshirts",
       image:
         "https://th.bing.com/th/id/OIP.l045a-PeGXTd_JVPkW4F-wHaHa?rs=1&pid=ImgDetMain",

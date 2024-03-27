@@ -20,7 +20,7 @@ function LatestDiscountCouponCode({ data }) {
       link: "/books",
     },
     {
-      name: "Clothes",
+      name: "Shoes",
       link: "/clothes",
     },
     {

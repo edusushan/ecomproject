@@ -46,7 +46,7 @@ const ProductCard = ({ details, addToCart }) => {
                 ""
               ) : (
                 <span className="absolute inline-flex items-center justify-center px-2 py-1 bg-red-100 text-red-600 border-0 rounded-full text-xs font-semibold z-10 left-4 top-4">
-                  {d.availableQty < 1 ? "Out of stock" : "Limited Stock"}
+                  {d.availableQty < 1 ? "out of Stock" : "Limited Stock"}
                 </span>
               )}
 
